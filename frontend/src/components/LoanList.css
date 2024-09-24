@@ -1,0 +1,17 @@
+/* LoanList.css */
+.pending {
+     background-color: #ffeb3b; /* Sarı arka plan */
+   }
+   
+   .funded {
+     background-color: #4caf50; /* Yeşil arka plan */
+   }
+   
+   .status-pending {
+     color: #ff5722; /* Kırmızı renk */
+   }
+   
+   .status-funded {
+     color: #2196f3; /* Mavi renk */
+   }
+   
